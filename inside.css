@@ -1,0 +1,20 @@
+html{
+    background-color: darkgray;
+    color: cornsilk;
+    font-family: monospace;
+    text-align: center;
+    text-align: center;
+    text-justify:distribute;
+}
+
+a{
+    color: blueviolet;
+}
+div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
